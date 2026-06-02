@@ -28,11 +28,14 @@ function home() {
 
         {/* Text */}
         <h1 className="text-5xl text-center font-bold mb-4">
-          Hi, I'm Komo
+          Hi, Saya Kusuma
         </h1>
 
         <p className="text-sm sm:text-base mt-4 max-w-xs sm:max-w-md md:max-w-lg text-gray-300">
-          A passionate frontend developer with a knack for crafting beautiful and functional web experiences...
+          Saya seorang developer yang sedang fokus mengembangkan kemampuan di dunia web development.
+          Saya senang membangun website yang clean, responsif, dan nyaman digunakan.
+          Saat ini saya terus belajar dan mengasah skill di frontend maupun backend melalui berbagai project sederhana maupun pengembangan pribadi 🚀
+          Bagi saya, setiap project adalah proses untuk bertumbuh dan meningkatkan kualitas diri di dunia teknologi.
         </p>
       </div>
 
