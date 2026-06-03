@@ -9,7 +9,7 @@ function About() {
                 <p className="text-base md:text-lg  mb-6">
                     Saya adalah seorang mahasiswa/ developer web yang memiliki ketertarikan di bidang pengembangan sistem informasi berbasis website. Saya berfokus pada pengembangan aplikasi web yang responsif, modern, dan mudah digunakan oleh pengguna.
 
-                    Saya memiliki pengalaman dalam membangun berbagai project seperti sistem informasi e-commerce, serta pengembangan UI/UX sederhana menggunakan teknologi seperti HTML, CSS, JavaScript, React, dan Laravel. Saya juga terbiasa bekerja dengan database MySQL serta melakukan deployment menggunakan Vercel dan GitHub.
+                    Saya memiliki pengalaman dalam membangun berbagai project seperti sistem informasi e-commerce, serta pengembangan UI/UX sederhana menggunakan teknologi seperti HTML, CSS, JavaScript, React, dan Laravel. Saya juga terbiasa bekerja dengan database MySQL serta melakukan deployment menggunakan Vercel dan VPS.
 
                     Saya senang belajar hal baru, mampu bekerja secara individu maupun tim, serta memiliki komitmen untuk terus meningkatkan kemampuan di bidang teknologi web development.
 
