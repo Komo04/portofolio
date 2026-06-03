@@ -31,7 +31,7 @@ function home() {
           Hi, Saya Kusuma
         </h1>
 
-        <p className="text-sm sm:text-base mt-4 max-w-xs sm:max-w-md md:max-w-lg text-gray-300">
+        <p className="text-sm sm:text-base mx-5 mt-4 max-w-xs sm:max-w-md md:max-w-lg text-gray-300">
           Saya seorang developer yang sedang fokus mengembangkan kemampuan di dunia web development.
           Saya senang membangun website yang clean, responsif, dan nyaman digunakan.
           Saat ini saya terus belajar dan mengasah skill di frontend maupun backend melalui berbagai project sederhana maupun pengembangan pribadi 🚀
