@@ -1,10 +1,19 @@
 const projects = [
-  "/project1.jpg",
-  "/project2.jpg",
-  "/project3.jpg",
-  "/project4.jpg",
-  "/project5.jpg",
-  "/project6.jpg"
+  {
+    image: "/latihanjs.png",
+    link: "https://github.com/username/project1",
+    description: "A simple JavaScript project to practice basic concepts."
+  },
+  {
+    image: "/latihanreact.png",
+    link: "https://komo04.github.io/DrafPokemon/",
+    description: "A React-based Pokémon draft simulator."
+  },
+  {
+    image: "/projectTA.png",
+    link: "https://shoreline-production-635e.up.railway.app/",
+    description: "A web application for managing shoreline projects."
+  },
 ];
 
 function Projects() {
@@ -12,9 +21,9 @@ function Projects() {
     <section id="projects" className="py-32 px-6">
       <div className="max-w-7xl mx-auto">
 
-        <h2 className="text-center text-5xl font-bold">
+        <h1 className="text-3xl text-center md:text-4xl lg:text-5xl font-bold mb-12 text-white">
           Projects
-        </h2>
+        </h1>
 
         <p className="text-center text-cyan-400">
           Some of my work
@@ -25,22 +34,32 @@ function Projects() {
           {projects.map((project, index) => (
             <div
               key={index}
-              className="overflow-hidden rounded-2xl bg-[#141821]"
+              className="overflow-hidden rounded-2xl bg-[#2B2B2B] shadow-lg hover:scale-105 transition duration-300"
             >
               <img
-                src={project}
-                alt=""
+                src={project.image}
+                alt="project"
                 className="w-full h-60 object-cover"
               />
 
               <div className="p-5">
-                <h3 className="font-semibold">
-                  Project Name
+                <h3 className="font-semibold text-white">
+                  Project {index + 1}
                 </h3>
 
-                <p className="text-gray-400">
-                  React • Tailwind
+                <p className="text-gray-400 mb-4">
+                  {project.description}
                 </p>
+
+                {/* BUTTON */}
+                <a
+                  href={project.link}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block bg-cyan-500 hover:bg-cyan-600 text-white text-sm px-4 py-2 rounded-lg transition"
+                >
+                  View Project
+                </a>
               </div>
             </div>
           ))}
