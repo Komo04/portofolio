@@ -12,7 +12,6 @@ function About() {
                     Mengembangkan website berbasis web menggunakan HTML, CSS, JavaScript, dan framework modern.
                     Membuat sistem informasi akademik berbasis website sebagai project tugas akhir.
                     Mengintegrasikan API dan database untuk pengelolaan data secara realtime.
-                    Mengembangkan fitur berbasis AI untuk membantu otomatisasi dan pengolahan data.
                     Melakukan testing dan perbaikan sistem agar aplikasi berjalan optimal dan responsif.
                     Terbiasa menggunakan Git, MySQL, dan tools pengembangan modern.
 
