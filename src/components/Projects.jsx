@@ -1,18 +1,17 @@
 const projects = [
   {
     image: "/latihanjs.png",
-    link: "https://github.com/username/project1",
-    description: "A simple JavaScript project to practice basic concepts."
+    description: "Membuat  Minigames Menggunakan JavaScript."
   },
   {
     image: "/latihanreact.png",
     link: "https://komo04.github.io/DrafPokemon/",
-    description: "A React-based Pokémon draft simulator."
+    description: "Membuat aplikasi draft Pokémon menggunakan React."
   },
   {
     image: "/projectTA.png",
     link: "https://shoreline-production-635e.up.railway.app/",
-    description: "A web application for managing shoreline projects."
+    description: "Project Perusahaan Toko Shoreline."
   },
 ];
 
