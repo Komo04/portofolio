@@ -1,7 +1,7 @@
 function About() {
     return (
         <article className=" text-white py-20 md:py-64">
-            <section id='about' className="scroll-">
+            <section id='about' className="scroll-mt-20">
 
             </section>
             <div className=" max-w-4xl mx-auto px-6 text-center">
