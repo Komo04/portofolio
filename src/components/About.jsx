@@ -7,13 +7,11 @@ function About() {
             <div className=" max-w-4xl mx-auto px-6 text-center">
                 <h1 className="text-3xl md:text-4xl lg:text-5xl  font-bold mb-6">About Me</h1>
                 <p className="text-base md:text-lg  mb-6">
-                    Web Developer
-                    Project Pribadi & Akademik | 2024 – 2026
-                    Mengembangkan website berbasis web menggunakan HTML, CSS, JavaScript, dan framework modern.
-                    Membuat sistem informasi akademik berbasis website sebagai project tugas akhir.
-                    Mengintegrasikan API dan database untuk pengelolaan data secara realtime.
-                    Melakukan testing dan perbaikan sistem agar aplikasi berjalan optimal dan responsif.
-                    Terbiasa menggunakan Git, MySQL, dan tools pengembangan modern.
+                    Saya adalah seorang mahasiswa/ developer web yang memiliki ketertarikan di bidang pengembangan sistem informasi berbasis website. Saya berfokus pada pengembangan aplikasi web yang responsif, modern, dan mudah digunakan oleh pengguna.
+
+                    Saya memiliki pengalaman dalam membangun berbagai project seperti sistem informasi e-commerce, serta pengembangan UI/UX sederhana menggunakan teknologi seperti HTML, CSS, JavaScript, React, dan Laravel. Saya juga terbiasa bekerja dengan database MySQL serta melakukan deployment menggunakan Vercel dan GitHub.
+
+                    Saya senang belajar hal baru, mampu bekerja secara individu maupun tim, serta memiliki komitmen untuk terus meningkatkan kemampuan di bidang teknologi web development.
 
                 </p>
                 <p className="text-base md:text-lg ">
